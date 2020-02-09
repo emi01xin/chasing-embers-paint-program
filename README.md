@@ -1,1 +1,1 @@
-A simple paint program created from scratch
+A simple paint program in python created from scratch :)
