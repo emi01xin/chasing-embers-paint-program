@@ -12,10 +12,13 @@ Welcome to Chasing Embers, a simple-to-use, user friendly paint program made in 
 ![brushes demo](https://user-images.githubusercontent.com/54726165/107148379-bd41ad00-6920-11eb-9b27-c6cb2345f326.gif)
 
 #### Shapes & Fill Tool <br>
+* common shapes for simple geometric designs
+* convenient fill tool
 ![shapes and fill demo](https://user-images.githubusercontent.com/54726165/107148357-a8fdb000-6920-11eb-9b96-5d439bede0b3.gif)
 
 #### Full Colour Selector <br>
 * full range of colours 
+
 ![colour selector ss](https://user-images.githubusercontent.com/54726165/107148394-ccc0f600-6920-11eb-96a1-ec00fc90050c.png)
 
 ![colour selector demo](https://user-images.githubusercontent.com/54726165/107148386-c468bb00-6920-11eb-80de-14a06aa00251.gif)
