@@ -1,5 +1,5 @@
 # Chasing Embers Paint Program
-A paint program made in Python including essential features such as brushes, shapes, fill, colour picker and stickers 
+Welcome to Chasing Embers, a simple-to-use, user friendly paint program made in Python.
 
 ![loading screen](https://user-images.githubusercontent.com/54726165/107148363-b0bd5480-6920-11eb-91c3-997b85b0c6f6.gif)
 
