@@ -24,9 +24,11 @@ Welcome to Chasing Embers, a simple-to-use, user friendly paint program made in 
 ![colour selector demo](https://user-images.githubusercontent.com/54726165/107148386-c468bb00-6920-11eb-80de-14a06aa00251.gif)
 
 #### Stickers & Colour Picker <br>
+* easy to rotate 
 ![stickers and colour picker demo](https://user-images.githubusercontent.com/54726165/107148347-a1d6a200-6920-11eb-8bd6-6507978ba60b.gif)
 
 #### Backgrounds <br>
+* 3 background images
 ![bgs demo](https://user-images.githubusercontent.com/54726165/106345799-b1028380-6280-11eb-979e-befd93dd1c28.gif)
 
 
