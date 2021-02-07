@@ -24,7 +24,7 @@ Welcome to Chasing Embers, a simple-to-use, user friendly paint program made in 
 
 ![colour selector demo](https://user-images.githubusercontent.com/54726165/107148386-c468bb00-6920-11eb-80de-14a06aa00251.gif)
 
-#### Stickers & Colour Picker <br>
+#### Stamps & Colour Picker <br>
 * easy to rotate 
 * convenient colour picker tool
 
@@ -35,7 +35,10 @@ Welcome to Chasing Embers, a simple-to-use, user friendly paint program made in 
 
 ![bgs demo](https://user-images.githubusercontent.com/54726165/107148665-75bc2080-6922-11eb-826e-1279df4856d5.gif)
 
-
-
-
+#### Other Features <br>
+* line tool
+* undo & redo
+* open & save
+* clear canvas
+* bg music
 
