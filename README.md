@@ -14,6 +14,7 @@ Welcome to Chasing Embers, a simple-to-use, user friendly paint program made in 
 #### Shapes & Fill Tool <br>
 * common shapes for simple geometric designs
 * convenient fill tool
+
 ![shapes and fill demo](https://user-images.githubusercontent.com/54726165/107148357-a8fdb000-6920-11eb-9b96-5d439bede0b3.gif)
 
 #### Full Colour Selector <br>
@@ -25,10 +26,12 @@ Welcome to Chasing Embers, a simple-to-use, user friendly paint program made in 
 
 #### Stickers & Colour Picker <br>
 * easy to rotate 
+
 ![stickers and colour picker demo](https://user-images.githubusercontent.com/54726165/107148347-a1d6a200-6920-11eb-8bd6-6507978ba60b.gif)
 
 #### Backgrounds <br>
 * 3 background images
+
 ![bgs demo](https://user-images.githubusercontent.com/54726165/106345799-b1028380-6280-11eb-979e-befd93dd1c28.gif)
 
 
