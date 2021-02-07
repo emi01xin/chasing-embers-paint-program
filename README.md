@@ -33,7 +33,8 @@ Welcome to Chasing Embers, a simple-to-use, user friendly paint program made in 
 #### Backgrounds <br>
 * 3 background images
 
-![bgs demo](https://user-images.githubusercontent.com/54726165/106345799-b1028380-6280-11eb-979e-befd93dd1c28.gif)
+![bgs demo](https://user-images.githubusercontent.com/54726165/107148665-75bc2080-6922-11eb-826e-1279df4856d5.gif)
+
 
 
 
