@@ -3,7 +3,7 @@ Welcome to Chasing Embers, a simple-to-use, user friendly paint program made in 
 
 ![loading screen](https://user-images.githubusercontent.com/54726165/107148363-b0bd5480-6920-11eb-91c3-997b85b0c6f6.gif)
 
-#### Features
+# Features
 Pen Tool, Brush tool, Spray Paint Tool and Eraser <br>
 * adjustable tool sizes
 * adjustable transparency
